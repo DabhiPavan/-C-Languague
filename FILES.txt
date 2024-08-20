@@ -1,0 +1,5 @@
+FILES:-
+
+1> READ ---> r
+2> APPEND ---> a
+3> WRITE ---> w
